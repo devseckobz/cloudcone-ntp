@@ -1,3 +1,4 @@
+clear
 echo "Cloudcone Ubuntu / Debian Ntp Fixer"
 echo "Running this script will solve update issue with your cloudcone server"
 echo "This script works with all latest Ubuntu 18 and Debian 8 and later versions"
